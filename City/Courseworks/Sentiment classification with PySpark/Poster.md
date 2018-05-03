@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://imgur.com/a/axfczev">
-</p>
+![](https://i.imgur.com/R4cjjqP.jpg)
