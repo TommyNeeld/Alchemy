@@ -1,5 +1,4 @@
+# Alchemy lab by Quy Vu
+This is where crazy ideas are experimented. Lots of them didn't work, but some turned out to be interesting! If something caught your attention, let me know!
 
-
-<p align="center">
-  <img src="https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/24883315_10212976606747065_1898445718263735482_o.jpg?oh=a5c9025445e52752a905b27564c496bd&oe=5AC1FCC6"/>
-</p>
+[LinkedIn](https://www.linkedin.com/in/quyvx/)
